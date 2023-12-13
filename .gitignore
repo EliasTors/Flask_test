@@ -1,0 +1,5 @@
+*.xlsx
+Balder.zip
+static/
+venv/
+__pycache__/
